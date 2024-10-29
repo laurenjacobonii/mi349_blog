@@ -1,0 +1,38 @@
+html{ 
+    background: #e3e3e3;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+    background: #fff;
+}
+
+h1{
+    font-size: 3em;
+    margin: 0;
+    text-align: center;
+}
+
+p{
+    line-height: 1.8em;
+    text-align: left;
+    background-color: lightgray;
+
+}
+.Golf-Picture{
+    margin-top: 25px;
+    float: left;
+    padding: 20px;
+}
+
+#blog{
+    border-top: 1px dotted #ccc;
+}
+
+.blog-post{
+    border-bottom: 1px dotted #ccc;
+}
