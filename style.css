@@ -126,10 +126,10 @@ table{
 
 
 .Tigers-Picture{
-    margin-top: 20px;
+    margin-top: -7px;
     float: left;
-    padding: 20px;
-
+    padding-right: 10px;
+    min-height: 10px;
 }
 
 .Golf-Picture{
@@ -140,7 +140,7 @@ table{
 }
 
 .About-picture{
-    margin-top: 8px;
+    margin-top: -7px;
     float: left;
     padding: 20px;
 }
